@@ -1,0 +1,33 @@
+{
+  "name": "earthglobe",
+  "version": "1.0.0",
+  "description": "Display an interactive Earth Globe using ThreeJs library!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebasz1000/threejs-earthGlobe.git"
+  },
+  "keywords": [
+    "interactiveWeb",
+    "earthGlobe",
+    "ThreeJs",
+    "Node"
+  ],
+  "author": "Juan Sebastián Zapata <Juan Sebastián Zapata O>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebasz1000/threejs-earthGlobe/issues"
+  },
+  "homepage": "https://github.com/sebasz1000/threejs-earthGlobe#readme",
+  "dependencies": {
+    "material-ui": "^0.20.0",
+    "materialize-css": "^0.100.2",
+    "next": "^5.1.0",
+    "react": "^16.3.1",
+    "react-dom": "^16.3.1"
+  }
+}
